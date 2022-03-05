@@ -1,0 +1,1 @@
+No deja subir carpetas vacías
